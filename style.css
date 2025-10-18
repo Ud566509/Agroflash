@@ -46,7 +46,7 @@
      content:'';
      width: 0%;
      height: 2px;
-     background: #f44336;
+     background: #309029;
      display: block;
      margin: auto;
      transition: 0.5s;
@@ -90,8 +90,8 @@
   }
 
   .hero-btn:hover {
-    border: 1px solid #f44336;
-    background: #f44336;
+    border: 1px solid #309029;
+    background: #309029;
     transition: 1s;
   } 
 
