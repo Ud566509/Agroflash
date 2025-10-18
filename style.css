@@ -46,7 +46,7 @@
      content:'';
      width: 0%;
      height: 2px;
-     background: #196849;
+     background: rgba(42, 72, 75, 0.7);
      display: block;
      margin: auto;
      transition: 0.5s;
@@ -90,8 +90,8 @@
   }
 
   .hero-btn:hover {
-    border: 1px solid #196849;
-    background: #196849;
+    border: 1px solid rgba(42, 72, 75, 0.7);
+    background: rgba(42, 72, 75, 0.7);
     transition: 1s;
   } 
 
@@ -107,7 +107,7 @@
     }
     .nav-links {
       position: fixed;
-      background: #196849;
+      background: rgba(42, 72, 75, 0.7);
       height: 100vh;
       width: 200px;
       top: 0;
@@ -302,7 +302,7 @@
    }
 
    .testimonials-col .fa{
-      color: #196849;
+      color: rgba(42, 72, 75, 0.7);
    }
    @media(max-width: 700px){
        .testimonials-col img{
@@ -351,7 +351,7 @@
    }
 
    .icons .fa{
-      color: #196849;
+      color: rgba(42, 72, 75, 0.7);
       margin: 0 13px;
       cursor: pointer;
       padding: 18px 0;
